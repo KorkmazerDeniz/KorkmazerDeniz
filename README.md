@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deniz Korkmazer
 =======================================================================================================================================
 
-Friendly and Dedicated Web Developer with a Flair for Front-End Technologies
+Web Developer with a Passion for Front-End Innovation
 ----------------------------------------------------------------------------
 
 Hi there! I'm Deniz Korkmazer, currently enriching the digital world at Ermat, a Renault dealership, as a Web Developer. My journey in the tech world revolves around Golang, my go-to language for crafting efficient web solutions. While I'm quite at home with SQL databases like MySQL and MSSQL, my real joy comes from playing with front-end technologies. I have a comfortable grip on HTML, CSS, and JavaScript – not claiming to be a wizard, but I'm definitely someone who enjoys bringing creative designs to life with these tools. My work mantra is about blending modern programming with a touch of user-centric design, all while keeping things light and friendly.
